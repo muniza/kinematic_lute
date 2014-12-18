@@ -1,0 +1,14 @@
+Item,Qty,Description,Source
+1,2,Atmega32u4_DEV_BOARD,http://medesign.seas.upenn.edu/index.php/Guides/MaEvArM
+2,1,Beaglebone_Black,https://www.adafruit.com/products/1876
+3,1,Audio_CODEC,https://github.com/surveycorps/e_apro/tree/master/audio
+4,1,Amplifier,http://www.adafruit.com/product/1712
+5,6,LM7805,http://www.digikey.com/product-detail/en/LM7805CT/LM7805CT-ND/458698
+6,2,Neopixel_30Strand,http://www.adafruit.com/products/1376?gclid=CJ61kPP9zsICFWFp7Aod0T8AuA
+7,1,mRF_Wireless,http://medesign.seas.upenn.edu/index.php/Guides/MAEVARM-mRF
+8,12,1uF_Ceramic,http://www.digikey.com/product-detail/en/C330C105M5U5TA7301/399-9887-1-ND/3726182
+9,1,360ohm,http://www.digikey.com/product-detail/en/RNMF14FTC360R/S360CACT-ND/2617491
+10,1,1kohm,http://www.digikey.com/product-detail/en/RNF18FTD1K00/RNF18FTD1K00CT-ND/2022656
+11,1,rocker_switch,http://www.digikey.com/product-detail/en/1-1571076-0/450-1810-ND/529580
+12,1,LED,http://www.digikey.com/product-detail/en/3474AN-GADB-AMNA-PR-MS/1080-1013-1-ND/2675504
+13,1,2s_2.2Ah_battery,http://www.hobbyking.com/hobbyking/store/__11910__Turnigy_nano_tech_2200mah_2S_25_50C_Lipo_Pack.html?strSearch=2200m

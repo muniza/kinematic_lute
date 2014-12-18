@@ -1,0 +1,10 @@
+Item,Qty,Description,Source
+1,1,Atmega32u4_DEV_BOARD,http://medesign.seas.upenn.edu/index.php/Guides/MaEvArM
+2,1,LM7805,http://www.digikey.com/product-detail/en/LM7805CT/LM7805CT-ND/458698
+3,2,1uF_Ceramic,http://www.digikey.com/product-detail/en/C330C105M5U5TA7301/399-9887-1-ND/3726182
+4,1,mRF_Wireless,http://medesign.seas.upenn.edu/index.php/Guides/MAEVARM-mRF
+5,1,1kohm,http://www.digikey.com/product-detail/en/RNF18FTD1K00/RNF18FTD1K00CT-ND/2022656
+6,1,rocker_switch,http://www.digikey.com/product-detail/en/1-1571076-0/450-1810-ND/529580
+7,5,1kohm,http://www.digikey.com/product-detail/en/RNF18FTD1K00/RNF18FTD1K00CT-ND/2022656
+8,4,Push_buttons,http://www.digikey.com/product-detail/en/RP8100B1M1CEBLKBLKNIL/EG4569-ND/1785728
+9,1,2s_1Ah_battery,http://www.hobbyking.com/hobbyking/store/__9170__Turnigy_1000mAh_2S_20C_Lipo_Pack.html?strSearch=1000mAh
